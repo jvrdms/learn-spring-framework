@@ -30,7 +30,7 @@ public class HelloWorldConfiguration {
 
     @Bean
     public Person person() {
-        return new Person("Javier", 60);
+        return new Person("Raga", 25);
     }
 
     @Bean
